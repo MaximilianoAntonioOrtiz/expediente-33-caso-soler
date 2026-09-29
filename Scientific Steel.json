@@ -851,6 +851,24 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "CenterCameraOnObject"
+              },
+              "parameters": [
+                "",
+                "Player_Gabo",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
