@@ -756,6 +756,15 @@
                 "Player_Gabo",
                 "PlatformerObject"
               ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Player_Gabo",
+                "PlatformerObject"
+              ]
             }
           ],
           "actions": [
@@ -779,6 +788,15 @@
               "type": {
                 "inverted": true,
                 "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "Player_Gabo",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
               },
               "parameters": [
                 "Player_Gabo",
@@ -866,6 +884,33 @@
                 "",
                 "",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "Player_Gabo",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Player_Gabo",
+                "Animation",
+                "=",
+                "\"saltar\""
               ]
             }
           ]
