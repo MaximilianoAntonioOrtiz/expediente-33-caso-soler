@@ -214,15 +214,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 255,
+      "b": 97,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Escena_32sin_32t_237tulo",
-      "name": "Escena sin título",
-      "r": 247,
+      "mangledName": "Nivel_951_95Bosque",
+      "name": "Nivel_1_Bosque",
+      "r": 44,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 249,
+      "v": 54,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
