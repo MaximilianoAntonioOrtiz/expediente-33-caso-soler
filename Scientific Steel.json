@@ -219,6 +219,254 @@
         "name": "assets/Luna.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/suelo opcion 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/suelo opcion 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_idle_frame_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_idle_frame_8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_caminar_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_caminar_8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/gabo_saltar_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/gabo_saltar_8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/suelo-pasto-top-32-x-32.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/suelo-pasto-top-32-x-32.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets/suelo-pasto-top-32-x-32.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/suelo-mosaico-bot.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/suelo-mosaico-bot.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/suelo-pasto-top-32-x-32.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets/suelo-pasto-top-32-x-32.png2",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -251,7 +499,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.09375,
+        "zoomFactor": 1.5238725354395213,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -261,23 +509,6 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 9,
-          "keepRatio": true,
-          "layer": "",
-          "name": "suelo",
-          "persistentUuid": "01e9203f-f3c5-40c6-9b15-20ab91766189",
-          "width": 631,
-          "x": -3,
-          "y": 349,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -285,8 +516,8 @@
           "name": "Player_Gabo",
           "persistentUuid": "24e8ef1f-8ab6-4f25-84a3-ebf2ea72d82a",
           "width": 0,
-          "x": 2,
-          "y": 314,
+          "x": 15,
+          "y": 229,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -300,60 +531,11 @@
           "keepRatio": true,
           "layer": "",
           "name": "suelo",
-          "persistentUuid": "248e6793-33a0-49c2-b65a-920268c9add1",
-          "width": 127,
-          "x": 178,
-          "y": 238,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 55,
-          "keepRatio": true,
-          "layer": "",
-          "name": "suelo",
-          "persistentUuid": "537437f1-3ea6-4738-83b4-c0c5b4e4507a",
-          "width": 32,
-          "x": 123,
-          "y": 296,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "suelo",
-          "persistentUuid": "253cb331-2cb0-4883-bf65-0ee6c2396a71",
-          "width": 0,
-          "x": 92,
-          "y": 320,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "suelo",
-          "persistentUuid": "5902f6b8-4040-411e-a205-0f019ad30acb",
-          "width": 0,
-          "x": 144,
-          "y": 263,
-          "zOrder": 6,
+          "persistentUuid": "f46bd39b-6c28-464d-8c8b-37695a5c851b",
+          "width": 676,
+          "x": 641,
+          "y": 325,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -366,11 +548,11 @@
           "keepRatio": true,
           "layer": "",
           "name": "suelo",
-          "persistentUuid": "389b9e94-2c95-4980-b90f-a8d05d14d736",
-          "width": 90,
-          "x": 309,
-          "y": 237,
-          "zOrder": 7,
+          "persistentUuid": "da66a275-a21f-4b1a-8b91-4cfe70eb06a6",
+          "width": 630,
+          "x": 7,
+          "y": 293,
+          "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -379,166 +561,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 47,
+          "height": 32,
           "keepRatio": true,
           "layer": "",
-          "name": "suelo",
-          "persistentUuid": "01432c07-c0e3-4a60-9bd4-d67d82f375fe",
-          "width": 32,
-          "x": 399,
-          "y": 263,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 37,
-          "keepRatio": true,
-          "layer": "",
-          "name": "suelo",
-          "persistentUuid": "070334a2-913d-4097-9403-ace662dbf8a8",
-          "width": 37,
-          "x": 401,
-          "y": 312,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 107,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "8fb75273-1911-4956-92d8-8f128c6d8bdc",
-          "width": 91,
-          "x": 148,
-          "y": 251,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 182,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "5888e48b-4313-49de-881f-83a81e05026c",
-          "width": 136,
-          "x": 447,
-          "y": 177,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 114,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "4effb2c2-f726-4ae0-8e80-96e8a27b879d",
-          "width": 84,
-          "x": 244,
-          "y": 242,
-          "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 162,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "8320545c-8816-43d3-8016-58357d139f9b",
-          "width": 122,
-          "x": 343,
-          "y": 196,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 105,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "ad326f71-fc68-453f-92fc-51295e64a2b5",
-          "width": 98,
-          "x": 542,
-          "y": 248,
-          "zOrder": 14,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 122,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "f0a19ffc-0f9d-4dec-b066-7d72959c5331",
-          "width": 104,
-          "x": 62,
-          "y": 239,
-          "zOrder": 15,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Arbol_chico",
-          "persistentUuid": "5f202ad4-594c-4d99-854d-74551801ecd5",
-          "width": 0,
+          "name": "suelo_mosaico_bot",
+          "persistentUuid": "efca5958-8285-4f3a-99e6-44647f4be319",
+          "width": 633,
           "x": 6,
-          "y": 294,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Fondo",
-          "name": "Luna",
-          "persistentUuid": "2d28a921-62a1-4a9c-bb53-90f670c87492",
-          "width": 0,
-          "x": 399,
-          "y": 14,
-          "zOrder": 17,
+          "y": 321,
+          "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -550,7 +581,7 @@
           "height": 32,
           "name": "suelo",
           "persistentUuid": "af80017d-8856-4ee2-8ff0-a4f269a15651",
-          "texture": "NewTiledSprite",
+          "texture": "assets/suelo-pasto-top-32-x-32.png2",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -609,7 +640,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle",
+                      "image": "assets/gabo_idle_frame_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -625,27 +656,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "idle2",
+                      "image": "assets/gabo_idle_frame_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -661,20 +692,236 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_idle_frame_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_idle_frame_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_idle_frame_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_idle_frame_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_idle_frame_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_idle_frame_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
@@ -694,7 +941,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "caminar",
+                      "image": "assets/gabo_caminar_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -710,27 +957,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "caminar2",
+                      "image": "assets/gabo_caminar_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -746,27 +993,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "caminar3",
+                      "image": "assets/gabo_caminar_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -782,27 +1029,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "caminar4",
+                      "image": "assets/gabo_caminar_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -818,20 +1065,164 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_caminar_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_caminar_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_caminar_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_caminar_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
@@ -851,7 +1242,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "saltar",
+                      "image": "assets/gabo_saltar_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -867,27 +1258,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "saltar2",
+                      "image": "assets/gabo_saltar_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -903,27 +1294,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "saltar3",
+                      "image": "assets/gabo_saltar_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -939,27 +1330,27 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "saltar4",
+                      "image": "assets/gabo_saltar_4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -975,25 +1366,180 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 2
+                            "x": 16.5,
+                            "y": 64
                           },
                           {
-                            "x": 23,
-                            "y": 2
+                            "x": 45.5,
+                            "y": 63.5
                           },
                           {
-                            "x": 23,
-                            "y": 30.5
+                            "x": 45,
+                            "y": 0.5
                           },
                           {
-                            "x": 9,
-                            "y": 30.5
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_saltar_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_saltar_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_saltar_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/gabo_saltar_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 64
+                          },
+                          {
+                            "x": 45.5,
+                            "y": 63.5
+                          },
+                          {
+                            "x": 45,
+                            "y": 0.5
+                          },
+                          {
+                            "x": 17.5,
+                            "y": 0
                           }
                         ]
                       ]
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
                 }
               ]
             }
@@ -1120,6 +1666,80 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Reja",
+          "persistentUuid": "94a74a2b-2b92-497b-81cf-adde024c70fb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 1
+                          },
+                          {
+                            "x": 23,
+                            "y": 1
+                          },
+                          {
+                            "x": 23,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "suelo_mosaico_bot",
+          "persistentUuid": "eb2a7920-76e2-400d-8b22-7a20b7323bca",
+          "texture": "assets/suelo-mosaico-bot.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -1136,6 +1756,12 @@
           },
           {
             "objectName": "Arbol_chico"
+          },
+          {
+            "objectName": "Reja"
+          },
+          {
+            "objectName": "suelo_mosaico_bot"
           }
         ]
       },
@@ -1323,7 +1949,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": true,
+          "isLocked": false,
           "name": "Fondo",
           "renderingType": "",
           "visibility": true,
